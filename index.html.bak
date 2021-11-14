@@ -1,11 +1,15 @@
 <!DOCTYPE html>
 <html>
 <head>
-	<title>Jakob Jaeger</title>
+	<title>Jakob Jaeger's Portfolio</title>
 </head>
-<body{background-color: gray;}>
-<h1>Portfolio</h1>
+<body>
+<h1>Jakob Jaeger's Portfolio</h1>
 <p>I make games</p>
 
 </body>
 </html>
+
+<style>
+	body{background-color: gray;}
+</style>
