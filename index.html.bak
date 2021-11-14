@@ -5,13 +5,27 @@
 </head>
 <body>
 <h1>Jakob Jaeger's Portfolio</h1>
-<p>I make games</p>
+<h2>Unity Projects</h2>
 
 </body>
 </html>
 
 <style>
+	h1{
+		color: hsl(0, 0%, 75%);
+		text-align: center;
+	}
+	
+	h2{
+		color: hsl(0, 0%, 75%);
+		text-align: center;
+	}
+	
 	body {
-		background-color: hsl(0, 100%, 20%);
+		background-color: hsl(0, 0%, 10%);
+	}
+	
+	p{
+		color: hsl(0, 0%, 75%);
 	}
 </style>
