@@ -12,6 +12,6 @@
 
 <style>
 	body {
-		background-color: gray;
+		background-color: hsl(0, 100%, 20%);
 	}
 </style>
