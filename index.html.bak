@@ -11,5 +11,7 @@
 </html>
 
 <style>
-	body{background-color: gray;}
+	body {
+		background-color: gray;
+	}
 </style>
